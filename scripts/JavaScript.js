@@ -76,10 +76,10 @@
                         '<span class="gray-lable">Humidity: </span>' + humidity + '%' +
                     '</div>' +
                     '<div class="current-weather-row">' +
-                    '<span class="gray-lable">Pressure: </span>' + pressure + 'мм рт. ст.' +
+                    '<span class="gray-lable">Pressure: </span>' + pressure + 'mm Hg' +
                     '</div>' +
                     '<div class="current-weather-row" onclick="drawBody();">' +
-                        '<span class="gray-lable">Wind: </span><span class="wind-speed">' + speed + 'м/с </span>' + deg +
+                        '<span class="gray-lable">Wind: </span><span class="wind-speed">' + speed + 'm/s </span>' + deg +
                     '</div>' +
                 '</div>' +
 
