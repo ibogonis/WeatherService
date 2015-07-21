@@ -103,7 +103,7 @@
         '<div class="short-weather-information">' +
                //<!--<canvas id="weather-logo" width="150" height="100">Your browser doesn't support canvas tag!</canvas>-->
                 '<div class="weather-big-logo">' +
-                    '<img src="../images/' + icon + '.svg" />' +
+                    '<img src="images/' + icon + '.svg" />' +
                 '</div>' +
             temperature + '<sup><small>°C</small></sup>' +
         '</div>' +
