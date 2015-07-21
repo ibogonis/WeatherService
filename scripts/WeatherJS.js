@@ -1,4 +1,4 @@
-function getWeatherData(lang, fnOK, fnError) {
+﻿function getWeatherData(lang, fnOK, fnError) {
     navigator.geolocation.getCurrentPosition(locSuccess, locError);
 
     function locSuccess(position) {

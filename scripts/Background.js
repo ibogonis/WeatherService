@@ -1,4 +1,4 @@
-function changeBackground(cond) {
+﻿function changeBackground(cond) {
     switch (cond) {
         case "clear sky":
             document.body.background = "url('../pic/clear_sky.jpg') no-repeat;";

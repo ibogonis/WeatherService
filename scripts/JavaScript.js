@@ -1,4 +1,4 @@
-$(function () {
+﻿$(function () {
     var locale = 'en',
 		weatherDiv = $('#weather'),
 		scroller = $('#scroller'),

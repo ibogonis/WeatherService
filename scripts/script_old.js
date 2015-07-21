@@ -14,19 +14,7 @@ function drawingSun() {
 // Changing background-image
 //document.getElementById("header").style.background="background-image: url('/data/header_x2.jpg') no-repeat";
 
-function changeBackground(cond) {
-    switch (cond) {
-        case "sunny":
-            document.body.bgColor = "yellow";
-            break;
-        case "rainy":
-            document.body.bgColor = "blue";
-            break;
-        case "cloudy":
-            document.body.bgColor = "gray";
-            break;
-    }
-}
+
 
 
 $(function () {

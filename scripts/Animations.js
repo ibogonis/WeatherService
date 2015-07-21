@@ -1,4 +1,4 @@
-// Drawing Logo
+﻿// Drawing Logo
 
 function animateLogo() {
     var canvas = document.getElementById("logo-animate");
