@@ -79,7 +79,7 @@
                     '<span class="gray-lable">Pressure: </span>' + pressure + 'mm Hg' +
                     '</div>' +
                     '<div class="current-weather-row" onclick="drawBody();">' +
-                        '<span class="gray-lable">Wind: </span><span class="wind-speed">' + speed + 'm/s </span>' + deg + '<span class="gray-lable">Direction: </span><span class="wind-speed">' + convertDegToDirection(deg) + '</span>' +
+                        '<span class="gray-lable">Wind: </span><span class="wind-speed">' + speed + 'm/s </span>' + '<span class="gray-lable">Direction: </span><span class="wind-speed">' + convertDegToDirection(deg) + '</span>' +
                     '</div>' +
                 '</div>' +
 
