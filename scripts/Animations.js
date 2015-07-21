@@ -87,7 +87,7 @@ function drawBody(speed) {
     ctx.arc(30, 30, 3, 0, 2 * Math.PI);
     ctx.stroke();
 
-    speed = 110 - speed*2;
+    speed = 80 - speed*2;
 
     setTimeout(drawBlades, 1);
 
