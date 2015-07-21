@@ -65,7 +65,7 @@
                     '<div class="day-information">' + day + '</div>' +
                     '<div class="short-weather-information">' +
                             '<div class="weather-big-logo">' +
-                                '<img src="../images/' + icon + '.svg" />' +
+                                '<img src="images/' + icon + '.svg" />' +
                             '</div>' +
                         temperature + '<sup><small>°C</small></sup>' +
                     '</div>' +
