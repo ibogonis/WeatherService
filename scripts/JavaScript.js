@@ -133,7 +133,7 @@
                 '<div class="week-day">' + weekDay + '</div>' +
                 '<div class="month-day">' + date + '</div>' +
                 '<div class="day-logo">' +
-                '<img width="25px" height="25px" src="../images/' + icon + '.svg" /></div>' +
+                '<img width="25px" height="25px" src="images/' + icon + '.svg" /></div>' +
                 '<div class="temperature">' + temperature + '<sup><small>°C</small></sup></div>';
 
         informByDays.append(markupLeft);
